@@ -1,0 +1,41 @@
+@keyframes span {
+}
+.noinfo{
+    display: none;
+}
+.info{
+    display: block;
+    
+}
+.noinfo1{
+    font-weight: 500;
+    display: none !important;
+}
+.info1{
+    display: block !important;
+    
+}
+.info2{
+    font-weight: 500;
+    display: none !important;
+}
+.noinfo2{
+    display: block !important;
+
+}
+.info3{
+    font-weight: 500;
+    display: none !important;
+}
+.noinfo3{
+    display: block !important;
+
+}
+.displayicon{
+    display: block;
+    
+}
+
+.Nodisplayicon{
+    display: none;
+}
